@@ -2,6 +2,8 @@
 
 ![OR and ORR](media/or-and-orr-flow-diagram.png)
 
+Accepted at EMNLP 2025, more information coming soon.
+
 # Citation
 
 ```
